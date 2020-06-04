@@ -21,4 +21,4 @@ How to set up the environment to run the code?
   - `jupyter notebook --notebook-dir=.`
 
 
-You can open `zwerfafval.ipynb` to run the codes step by step
+In the browser with Jupyter Notebook you can open `zwerfafval.ipynb` to modify and run the codes step by step
