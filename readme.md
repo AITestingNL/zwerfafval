@@ -19,3 +19,6 @@ How to set up the environment to run the code?
   - `pip install -r requirements.txt`
 - Start Jupyter
   - `jupyter notebook --notebook-dir=.`
+
+
+You can open `zwerfafval.ipynb` to run the codes step by step
