@@ -1,15 +1,16 @@
 How to set up the environment to run the code?
 
-- [Python 3](https://www.python.org/)
+- Install [Python 3](https://www.python.org/. 64 bit version is needed since Tensorflow doesn't work with 32 bit version of Python.
 - Optional:
   -  install [VirtualEnv](https://virtualenv.pypa.io/en/stable/)
-     - `pip3 install virtualenv`
+     - `pip install virtualenv`
   - create a virtual environment
     - create a project folder
     - `cd project_folder`
     - `virtualenv venv`
   - activate the new created environment
-    - `source venv/bin/activate`
+    - `source venv/bin/activate` in Linux/Mac
+    - `venv\Scripts\activate` in Windows
 - Clone the zwerfafval project into the project folder
   - `git clone https://github.com/AITestingNL/zwerfafval.git`
 - Go to the zwerfafval folder
@@ -20,4 +21,8 @@ How to set up the environment to run the code?
   - `jupyter notebook --notebook-dir=.`
 
 
+<<<<<<< HEAD
 Another related project to recognize Amstel and Coca Cola cans can be found (here)[https://github.com/AITestingNL/zwerfafval2]
+=======
+In the browser with Jupyter Notebook you can open `zwerfafval.ipynb` to modify and run the codes step by step
+>>>>>>> 62f77998f5395aba2d3d0cd8e0bcc504e637eccc
