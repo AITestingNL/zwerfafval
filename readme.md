@@ -1,6 +1,6 @@
 How to set up the environment to run the code?
 
-- Install [Python 3](https://www.python.org/. 64 bit version is needed since Tensorflow doesn't work with 32 bit version of Python.
+- Install [Python 3](https://www.python.org/). 64 bit version is needed since Tensorflow doesn't work with 32 bit version of Python.
 - Optional:
   -  install [VirtualEnv](https://virtualenv.pypa.io/en/stable/)
      - `pip install virtualenv`
