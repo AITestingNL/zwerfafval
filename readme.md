@@ -18,3 +18,6 @@ How to set up the environment to run the code?
   - `pip install -r requirements.txt`
 - Start Jupyter
   - `jupyter notebook --notebook-dir=.`
+
+
+Another related project to recognize Amstel and Coca Cola cans can be found (here)[https://github.com/AITestingNL/zwerfafval2]
