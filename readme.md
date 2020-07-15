@@ -21,8 +21,7 @@ How to set up the environment to run the code?
   - `jupyter notebook --notebook-dir=.`
 
 
-<<<<<<< HEAD
-Another related project to recognize Amstel and Coca Cola cans can be found (here)[https://github.com/AITestingNL/zwerfafval2]
-=======
 In the browser with Jupyter Notebook you can open `zwerfafval.ipynb` to modify and run the codes step by step
->>>>>>> 62f77998f5395aba2d3d0cd8e0bcc504e637eccc
+
+
+Another related project to recognize Amstel and Coca Cola cans can be found (here)[https://github.com/AITestingNL/zwerfafval2]
